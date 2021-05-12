@@ -41,7 +41,7 @@ namespace CleanArch.Api
             
             services.AddDbContext<UniversityDbContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("RpaResetSenha"));
+                options.UseSqlServer(Configuration.GetConnectionString("Server"));
             });
 
         

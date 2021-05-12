@@ -35,12 +35,12 @@ namespace CleanArch.Mvc
         {
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
-                    Configuration.GetConnectionString("RpaResetSenha")));
+                    Configuration.GetConnectionString("Server")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
             services.AddDbContext<UniversityDbContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("RpaResetSenha"));
+                options.UseSqlServer(Configuration.GetConnectionString("Server"));
             });
 
             
