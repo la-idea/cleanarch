@@ -1,0 +1,15 @@
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\bin\Debug\net5.0\CleanArch.Infrastructure.Bus.deps.json
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\bin\Debug\net5.0\CleanArch.Infrastructure.Bus.dll
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\bin\Debug\net5.0\ref\CleanArch.Infrastructure.Bus.dll
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\bin\Debug\net5.0\CleanArch.Infrastructure.Bus.pdb
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.csprojAssemblyReference.cache
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.AssemblyInfoInputs.cache
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.AssemblyInfo.cs
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.csproj.CoreCompileInputs.cache
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.dll
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\ref\CleanArch.Infrastructure.Bus.dll
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.pdb
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\bin\Debug\net5.0\CleanArch.Domain.Core.dll
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\bin\Debug\net5.0\CleanArch.Domain.Core.pdb
+C:\Users\gabriell\Desktop\Internet Explorer\CleanArchitecture\CleanArch\CleanArch\CleanArch.Infrastructure.Bus\obj\Debug\net5.0\CleanArch.Infrastructure.Bus.csproj.CopyComplete
